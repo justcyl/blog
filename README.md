@@ -6,6 +6,9 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 ## 置顶文章
 - [Hello world!](https://github.com/justcyl/blog/issues/2)--2024-10-04
 ## 最近更新
+- [理想的 blog](https://github.com/justcyl/blog/issues/3)--2024-10-12
 - [Hello world!](https://github.com/justcyl/blog/issues/2)--2024-10-04
+## 想法
+- [理想的 blog](https://github.com/justcyl/blog/issues/3)--2024-10-12
 ## 记录
 - [Hello world!](https://github.com/justcyl/blog/issues/2)--2024-10-04
