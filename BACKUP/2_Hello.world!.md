@@ -10,4 +10,4 @@
 
 ![sketch.webp](https://cdn.jsdelivr.net/gh/justcyl/blog@master/images/2024/10/1728755446558.webp)
 
-改动来自 vscode
+改动来自 vsc-blogger
