@@ -12,4 +12,5 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 ## 想法
 - [理想的 blog](https://github.com/justcyl/blog/issues/3)--2024-10-12
 ## 记录
+- [写一行代码算我输!](https://github.com/justcyl/blog/issues/4)--2024-10-23
 - [Hello world!](https://github.com/justcyl/blog/issues/2)--2024-10-04
